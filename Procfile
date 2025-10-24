@@ -1,0 +1,1 @@
+web: java -jar build/libs/dio-desafio-projeto-bootcamp-gft-modulo4-0.0.1-SNAPSHOT.jar
